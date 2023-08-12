@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+numpy
+pandas
+scikit-learn
+pillow
+python-telegram-bot
+pyrogram
+sqlalchemy
+tensorflow
+torch
